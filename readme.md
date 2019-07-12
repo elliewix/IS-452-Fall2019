@@ -28,8 +28,8 @@ This is the repo for the IS452 class materials that I can make public, but mainl
 | 10     | [JSON and CSVs](Lectures/Week-10-JSONandCSV.ipynb) (was: [While loops](Lectures/Week-09-While&sentinelloops.ipynb) Lesson under construction              |
 | 11     | [SQL](Lectures/Week-11-SQL.ipynb)                        | 
 | 12     | [XPath A](Lectures/Week-12-XPath-A.ipynb)                               | 
-| 13     | [XPath B](Lectures/Week-13-XPath-B.ipynb                          | 
-| 14     | Thanksgiving break, no class)                            | 
+| 13     | [XPath B](Lectures/Week-13-XPath-B.ipynb)                          | 
+| 14     | Thanksgiving break, no class                           | 
 | 15     | [Regular Expressions](Lectures/Week-14-RegEx.ipynb)                | 
 | 16     | Wrap up (we will have class)           | - |
 | Finals | No Class                               | - |
