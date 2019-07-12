@@ -1,6 +1,6 @@
-# IS 452: Foundations of Information Processing - Spring 2019 
+# IS 452: Foundations of Information Processing - Fall 2019 
 
-A public repo for the Spring 2019 IS452 lecture notes
+A public repo for the Fall 2019 IS452 lecture notes
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/elliewix/IS-452-Fall2018/master) (this is currently for the Fall 18 run until I fix the binder thing)
 
@@ -28,14 +28,14 @@ This is the repo for the IS452 class materials that I can make public, but mainl
 | 10     | [JSON and CSVs](Lectures/Week-10-JSONandCSV.ipynb) (was: [While loops](Lectures/Week-09-While&sentinelloops.ipynb) Lesson under construction              |
 | 11     | [SQL](Lectures/Week-11-SQL.ipynb)                        | 
 | 12     | [XPath A](Lectures/Week-12-XPath-A.ipynb)                               | 
-| 13     | Thanksgiving break, no class                           | 
-| 14     | [XPath B](Lectures/Week-13-XPath-B.ipynb)                            | 
+| 13     | [XPath B](Lectures/Week-13-XPath-B.ipynb                          | 
+| 14     | Thanksgiving break, no class)                            | 
 | 15     | [Regular Expressions](Lectures/Week-14-RegEx.ipynb)                | 
 | 16     | Wrap up (we will have class)           | - |
 | Finals | No Class                               | - |
 
 ## Previous Runs
-
+* Spring 2019: [https://github.com/elliewix/IS-452-Spring2019](https://github.com/elliewix/IS-452-Spring2019)
 * Fall 2018:  [https://github.com/elliewix/IS-452-Fall2018](https://github.com/elliewix/IS-452-Fall2018)
 * Spring 2018: [https://github.com/elliewix/IS-452-Spring2018](https://github.com/elliewix/IS-452-Spring2018)
 * Fall 2017: [https://github.com/elliewix/IS-452-Fall2017](https://github.com/elliewix/IS-452-Fall2017)
