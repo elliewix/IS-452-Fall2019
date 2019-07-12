@@ -1,4 +1,4 @@
-# IS 452AO 2019 Spring Syllabus
+# IS 452AO 2019 Fall Syllabus
 ## Instructor information
 
 * Instructor: Elizabeth Wickes
