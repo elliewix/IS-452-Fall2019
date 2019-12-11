@@ -313,6 +313,12 @@ Students needing to miss more than these two class sessions must contact the ins
 http://www.inclusiveillinois.illinois.edu/
 As the state’s premier public university, the University of Illinois at Urbana-Champaign’s core mission is to serve the interests of the diverse people of the state of Illinois and beyond. The institution thus values inclusion and a pluralistic learning and research environment, one in which we respect the varied perspectives and lived experiences of a diverse community and global workforce. We support diversity of worldviews, histories, and cultural knowledge across a range of social groups including race, ethnicity, gender identity, sexual orientation, abilities, economic class, religion, and their intersections.
 
+## Religious Observances 
+
+In keeping with our Statement of Inclusion and Illinois law, the University is required to reasonably accommodate its students' religious beliefs, observances, and practices in regard to admissions, class attendance, and the scheduling of examinations and work requirements. 
+
+If you would like an absence letter, then you must fill out the Religious Observance Accommodation Request form is available at http://odos.illinois.edu/community-of-care/resources/docs/Religious-Observance-Accommodation-Request-Form.pdf. Other accommodations may also be available. If you anticipate the need for an accommodation, please communicate with your instructor as soon as possible.
+
 ## Request for Special Accommodations
 
 We are committed to providing a learning environment where our students can succeed.  If you require special accommodations, please contact us and the Disability Resources and Educational Services (DRES) as soon as possible. To contact DRES, you may visit 1207 S. Oak Street, Champaign, call 217.333.4603, or email disability@illinois.edu.  We will try to meet all accommodations once the process has started. Please note accommodations are not retroactive to the beginning of the semester, but begin the day you contact your professor with a current letter of accommodation from DRES.
