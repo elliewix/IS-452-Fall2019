@@ -1,4 +1,5 @@
-# IS 452AO 2019 Fall Syllabus
+# IS 452AO/AG/AU 2019 Spring 2020 Syllabus
+
 ## Instructor information
 
 * Instructor: Elizabeth Wickes
